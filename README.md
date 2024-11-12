@@ -1,6 +1,8 @@
-DOCUMENTATION OF THE GAME 
+# CYBER NINJA
+A game made for COFAS International Computer Olympiad which end up winning RUNNER UP prize.
 
-CYBER NINJA
+
+DOCUMENTATION OF THE GAME 
 
 Team information
 - Team Members:
