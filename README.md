@@ -1,6 +1,8 @@
 # CYBER NINJA
 A game made for COFAS International Computer Olympiad which end up winning RUNNER UP prize.
 
+![image](https://github.com/user-attachments/assets/a975fde1-2a86-462f-a46a-2f0777198958)
+
 
 DOCUMENTATION OF THE GAME 
 
